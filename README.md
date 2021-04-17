@@ -12,8 +12,9 @@
 
 
 ### Setup On Linux:
-` git clone https://github.com/SalimRK/neWWlist.git
-python3 neWWlist.py `
+` git clone https://github.com/SalimRK/neWWlist.git`
+
+`python3 neWWlist.py `
 
 
 # thanks and stay safe
