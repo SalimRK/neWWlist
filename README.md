@@ -12,16 +12,8 @@
 
 
 ### Setup On Linux:
-` git clone https://github.com/SalimRK/neWWlist.git`
-` python3 neWWlist.py`
-
-### Setup On Windows:
-
-## Note: You need python installed.
-1.Downlaod the file
-2.Unzip the file
-3. and open neWWlist.exe
+` git clone https://github.com/SalimRK/neWWlist.git
+python3 neWWlist.py `
 
 
-##How I Make The Exe File:
-I used pyinstaller
+# thanks and stay safe
